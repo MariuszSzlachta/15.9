@@ -9,6 +9,7 @@ This app is based on github API and created with React. Allows to find github us
 - HTML
 - CSS
 - ES6
+- FetchAPI
 - ReactJS
 - Babel
 
